@@ -3,6 +3,7 @@ import WAWebJS from "whatsapp-web.js";
 import qrcode from 'qrcode-terminal'
 import Spinnies from "spinnies";
 import chalk from 'chalk';
+import {} from "stickers.js";
 
 const spinnies = new Spinnies();
 const ffmpegPath = FfmpegPath.path;
@@ -69,4 +70,3 @@ function aboutClient(client){
   ));
 };
 
-require('./stickers.js');
