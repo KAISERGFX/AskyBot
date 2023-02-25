@@ -28,3 +28,14 @@ client.on('message', async (msg) => {
           console.log(chalk.green(`💬 ${contact.pushname} : Sticker sent!\n`));
         } else {
           msg.reply('Send image with caption !sticker');
+      };
+        break;
+      case '!error':
+        // console.log(new Error());
+        new Error();
+        break;
+    }
+  } catch (error) {
+    console.error(error);
+  };
+});
