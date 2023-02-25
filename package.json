@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aromakelapa/whatsapp-bot-sticker.git"
+    "url": "git+https://github.com/KAISERGFX/AskyBot.git"
   },
   "keywords": [
     "bot-whatsapp-sticker",
@@ -22,9 +22,9 @@
   "author": "Aromakelapa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aromakelapa/whatsapp-bot-sticker/issues"
+    "url": "https://github.com/KAISERGFX/AskyBot/issues"
   },
-  "homepage": "https://github.com/Aromakelapa/whatsapp-bot-sticker#readme",
+  "homepage": "https://github.com/KAISERGFX/AskyBot/#readme",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "chalk": "^5.2.0",
